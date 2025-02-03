@@ -49,13 +49,6 @@ body {
     outline: none;
 }
 
-/* .form-button {
-    margin-top: 20px;
-    border: 1px solid black;
-    padding: 10px 25px 10px 25px;
-    border-radius: 8px;
-} */
-
 .form-forgot-password a {
     text-decoration: none;
     color: inherit;
